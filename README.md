@@ -60,6 +60,9 @@ This takes a while, do not close the program, it says if there is an error.
   print("There are not enougf cupons, to complete cupon number into "+str(exportLineSize)+", starting to scrap", cuponScorpionURL) 
  
  
+- When scraping process completed you can open the output.csv file to see your cupons. 
+
+![image](https://user-images.githubusercontent.com/80827760/223869898-2794d6fe-1326-4315-b7ba-05a092a0e210.png)
 
   
 
