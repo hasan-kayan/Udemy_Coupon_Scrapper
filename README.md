@@ -14,13 +14,11 @@ Coding All Stars Second Task
 
 This is a Python script that scrapes Udemy coupons from three different websites: real.discount, discudemy.com, and couponscorpion.com. It uses Selenium and BeautifulSoup libraries to navigate the webpages, extract data and write to a CSV file.
 
-Getting Started
+Before we start lets make a preparation. 
 
-## Prerequisites
+### NOTE : The code was previously prepared on the linux operating system, but it was organized according to windows. If you are going to run it on a Linux or Mac device, you need to make path arrangements.
 
-Python 3.x
-Chrome Browser
-Selenium Library
-BeautifulSoup Library
-Installation
-Clone the repository to your local machine:
+## Prerequests 
+
+
+
