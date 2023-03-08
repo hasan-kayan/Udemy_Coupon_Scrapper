@@ -36,16 +36,32 @@ Now lets make these steps together...
 For me, it says "Requirement already satisfied:" but in your computer packages will be downloading.ç 
 - Now lets run the script by the command: " python scrapy.py " 
 - It will ask for page number that you want enter those values as you wish. 
-- ![image](https://user-images.githubusercontent.com/80827760/223866240-3aab3958-37dc-4529-8f77-ec92793ea130.png)
+
+![image](https://user-images.githubusercontent.com/80827760/223869442-b1fa25d9-c910-42a1-bac1-a176962b9abc.png)
+
+
 It will start running image above and tell you what it is doing step by step. 
 #### In this process, some pages may be opened and closed, you should not interfere with these pages manually.
 
 ![image](https://user-images.githubusercontent.com/80827760/223866017-082dafc4-adc8-4b61-a567-73945e02b944.png)
 
 This takes a while, do not close the program, it says if there is an error. 
+- While checking whether the courses are still discounted on Udemy, you will see pages like the one below, don't worry, these pages are opened independently of your personal Udemy accounts.
 
-- 
+![image](https://user-images.githubusercontent.com/80827760/223867907-d168ad46-0b11-47ed-99b2-1581b4529b3c.png)
 
+- If a sufficient number of courses cannot be obtained, the expression seen in the photo below appears and starts to scan the second site, if there is not enough number here, it will start to scan the 3rd site. The more sites you enter, the longer the process will take.
+
+
+  print("There are not enougf cupons, to complete cupon number into "+str(exportLineSize)+", starting to scrap", discUdemyURL)
+  
+  If second scrap is also not enough you will see the output of 
+  
+  print("There are not enougf cupons, to complete cupon number into "+str(exportLineSize)+", starting to scrap", cuponScorpionURL) 
+ 
+ 
+
+  
 
 
 
