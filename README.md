@@ -16,9 +16,14 @@ This is a Python script that scrapes Udemy coupons from three different websites
 
 Before we start lets make a preparation. 
 
-### NOTE : The code was previously prepared on the linux operating system, but it was organized according to windows. If you are going to run it on a Linux or Mac device, you need to make path arrangements.
+### NOTE : The code was previously prepared on the Linux operating system, but it was organized according to Windows. If you are going to run it on a Linux or Mac device, you need to make path arrangements.
 
 ## Prerequests 
 
+- Python 3.11.2 or later version should be installed on your system.
+- Chrome driver only supports for 111 version, so be check your Chrome browser version. 
+- Before you run the code you need to install all libraries, to do that I created a 'requirements.txt' file you cann call it at the terminal to install all needed libraries. How call 'requirements.txt' :
+    . Open your terminal
+    .Run this command : pip install -r requirements.txt
 
 
