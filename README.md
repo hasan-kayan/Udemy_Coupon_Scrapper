@@ -1,7 +1,7 @@
 # SecondTask_CAS
 
-  ## Udemy Course Cupon Scraper Task 
-
+  #### Udemy Course Cupon Scraper Task 
+### Before moving on to the usage and explanation of the code, the code contains a GUI.py file, but this GUI is a very non-functional and even visually inadequate UI written in PyQt5. The main purpose of this code is to be adapted to the website. At the end of the task delivery process, by adapting this application to my Django project, it will be possible to access it over the hasankayan.net domain, which I will publish over Amazon EC2. Django work is not complete yet so I wrote a simple website, which hosts a .csv file generated with my scraper code in the background and downloads it when the button is pressed. I am hosting this demo website via Github Pages. Please visit this page for my interface design and simple logic.
 
 ### Coding All Stars Second Task 
 
