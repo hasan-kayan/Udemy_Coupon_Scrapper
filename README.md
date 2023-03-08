@@ -6,9 +6,7 @@
 Coding All Stars Second Task 
 
 
-<div align="center">
-  <iframe src="https://giphy.com/embed/SpopD7IQN2gK3qN4jS" width="480" height="307" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/website-SpopD7IQN2gK3qN4jS">via GIPHY</a></p>
-</div>
+![web-scraping-with-python](https://user-images.githubusercontent.com/80827760/223840296-d74ccc09-77ce-46f5-b89f-d5c499e0e5a3.png)
 
 
 
