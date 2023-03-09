@@ -1,0 +1,215 @@
+
+.title{
+    position: absolute;
+    width: 228px;
+    height: 26px;
+    left: 100px;
+    top: 20px;
+    font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 20px;
+  
+  }
+  .form-check-input1{
+    position: absolute;
+    width: 228px;
+    height: 26px;
+    left: 189px;
+    top: 332px;
+    
+    background: #DAEEFF;
+  }
+  .form-check-input2{
+    position: absolute;
+    width: 228px;
+    height: 26px;
+    left: 189px;
+    top: 396px;
+    
+    background: #DAEEFF;
+  
+  }
+  .form-check-input3{
+    
+  position: absolute;
+  width: 228px;
+  height: 26px;
+  left: 189px;
+  top: 461px;
+  
+  background: #DAEEFF;
+    
+    }
+  
+  .form-control1{
+  
+  position:relative;
+  width: 286px;
+  height: 26px;
+  left: 397px;
+  top: 560px;
+  
+  background: #DAEEFF;
+  }
+    
+  .form-check-label1{
+  
+  position: absolute;
+  width: 100px;
+  height: 20px;
+  left: 175px;
+  top: 338px;
+  
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  /* identical to box height */
+  
+  color: #ffffff;
+  
+  }
+  .form-check-label2{
+  
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    left: 175px;
+    top: 402px;
+    
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    color: #ffffff;
+    
+    
+    }
+    .form-check-label3{
+  
+      
+  position: absolute;
+  width: 100px;
+  height: 20px;
+  left: 175px;
+  top: 466px;
+  
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  /* identical to box height */
+      color: #ffffff;
+      
+      
+      }
+    
+  .max-amount{
+  
+  position: absolute;
+  width: 100px;
+  height: 20px;
+  left: 510px;
+  top: 680px;
+  
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  /* identical to box height */
+  
+  color: #FFFFFF;
+  }
+  
+  .form-control2{
+  
+  position: absolute;
+  width: 239px;
+  height: 35px;
+  left: 700px;
+  top: 320px;
+  
+  background: #DAEEFF;
+  }
+  .course-date{
+  
+  position: absolute;
+  width: 114px;
+  height: 20px;
+  left: 780px;
+  top: 290px;
+  
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  /* identical to box height */
+  
+  color: #FFFFFF;
+    
+  }
+  
+  .form-control-3{
+  
+  position: absolute;
+  width: 239px;
+  height: 35px;
+  left: 700px;
+  top: 460px;
+  
+  background: #DAEEFF;
+  }
+  .retries{
+    position: absolute;
+  width: 86px;
+  height: 20px;
+  left: 795px;
+  top: 430px;
+  
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  /* identical to box height */
+  
+  color: #FFFFFF;
+  }
+  
+  
+  
+  
+  
+  .scrape{
+    position: absolute;
+  width: 73px;
+  height: 26px;
+  left: 1325px;
+  top: 405px;
+  
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  
+  color: #000000;
+  }
+  .btn-primary{
+    width: 194px;
+  height: 50px;
+    position: absolute;
+    left: 1258px;
+  top: 394px;
+  
+  
+  }
