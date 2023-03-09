@@ -1,5 +1,0 @@
-beautifulsoup4==4.10.0
-requests==2.26.0
-csv==1.0
-undetected-chromedriver==3.0.5
-selenium==4.1.0
