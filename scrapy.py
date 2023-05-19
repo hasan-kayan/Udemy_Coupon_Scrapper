@@ -9,6 +9,7 @@ from selenium.webdriver.common.by import By
 import time
 from datetime import date, timedelta
 
+
 # Take input from user for number of coupons to be scraped per site
 
 
